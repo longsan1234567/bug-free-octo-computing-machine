@@ -1,2 +1,2 @@
-# bug-free-octo-computing-machine
+# glang_learn
 go语言学习笔记
